@@ -1,0 +1,101 @@
+# 🧠 Dependencias
+node_modules/
+bower_components/
+
+# 🧱 Builds y distribuciones
+dist/
+build/
+out/
+coverage/
+.tmp/
+.cache/
+.next/
+.nuxt/
+.svelte-kit/
+.vite/
+storybook-static/
+
+# ⚙️ Archivos de configuración locales
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 🧰 Logs y diagnósticos
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# 🧪 Pruebas
+coverage/
+*.lcov
+.jest/
+
+# 🧼 Sistema operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# 💻 IDEs y editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# 🧩 Archivos temporales
+*.swp
+*.swo
+*.tmp
+*.temp
+*.log
+
+# 📦 Compilación o empaquetado
+*.zip
+*.tar
+*.gz
+
+# 🧑‍💻 Archivos personales o de documentación
+notes/
+drafts/
+docs-dev/
+
+# ⚡ Frameworks específicos
+# React
+*.env.development
+*.env.production
+
+# Vue
+.vuepress/dist
+
+# Angular
+.angular/
+.angular/cache/
+
+# Svelte
+.svelte-kit/
+
+# Gatsby
+.cache/
+public/
+
+# Next.js
+.next/
+out/
+
+# Vite
+.vite/
+
+# Storybook
+out/
+storybook-static/
+
+# ⚙️ Otros
+# Lockfiles (si trabajas con distintos gestores, evita mezclar)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
